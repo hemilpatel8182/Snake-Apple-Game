@@ -12,5 +12,5 @@ A classic Snake game implemented in Python using Pygame. The game features smoot
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/hemilpatel8182/Snake-Apple-Game.git
    cd snake-game
